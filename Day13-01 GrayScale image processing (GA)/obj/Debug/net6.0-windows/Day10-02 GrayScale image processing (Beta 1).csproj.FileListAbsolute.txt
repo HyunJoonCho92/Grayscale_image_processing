@@ -1,0 +1,18 @@
+C:\Users\NEXT_ENERGY\Desktop\C#_Code\Day10-02 GrayScale image processing (Beta 1)\bin\Debug\net6.0-windows\Day10-02 GrayScale image processing (Beta 1).exe
+C:\Users\NEXT_ENERGY\Desktop\C#_Code\Day10-02 GrayScale image processing (Beta 1)\bin\Debug\net6.0-windows\Day10-02 GrayScale image processing (Beta 1).deps.json
+C:\Users\NEXT_ENERGY\Desktop\C#_Code\Day10-02 GrayScale image processing (Beta 1)\bin\Debug\net6.0-windows\Day10-02 GrayScale image processing (Beta 1).runtimeconfig.json
+C:\Users\NEXT_ENERGY\Desktop\C#_Code\Day10-02 GrayScale image processing (Beta 1)\bin\Debug\net6.0-windows\Day10-02 GrayScale image processing (Beta 1).dll
+C:\Users\NEXT_ENERGY\Desktop\C#_Code\Day10-02 GrayScale image processing (Beta 1)\bin\Debug\net6.0-windows\Day10-02 GrayScale image processing (Beta 1).pdb
+C:\Users\NEXT_ENERGY\Desktop\C#_Code\Day10-02 GrayScale image processing (Beta 1)\obj\Debug\net6.0-windows\Day10-02 GrayScale image processing (Beta 1).csproj.AssemblyReference.cache
+C:\Users\NEXT_ENERGY\Desktop\C#_Code\Day10-02 GrayScale image processing (Beta 1)\obj\Debug\net6.0-windows\Day10-02 GrayScale image processing (Beta 1).csproj.GenerateResource.cache
+C:\Users\NEXT_ENERGY\Desktop\C#_Code\Day10-02 GrayScale image processing (Beta 1)\obj\Debug\net6.0-windows\Day10-02 GrayScale image processing (Beta 1).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NEXT_ENERGY\Desktop\C#_Code\Day10-02 GrayScale image processing (Beta 1)\obj\Debug\net6.0-windows\Day10-02 GrayScale image processing (Beta 1).AssemblyInfoInputs.cache
+C:\Users\NEXT_ENERGY\Desktop\C#_Code\Day10-02 GrayScale image processing (Beta 1)\obj\Debug\net6.0-windows\Day10-02 GrayScale image processing (Beta 1).AssemblyInfo.cs
+C:\Users\NEXT_ENERGY\Desktop\C#_Code\Day10-02 GrayScale image processing (Beta 1)\obj\Debug\net6.0-windows\Day10-02 GrayScale image processing (Beta 1).csproj.CoreCompileInputs.cache
+C:\Users\NEXT_ENERGY\Desktop\C#_Code\Day10-02 GrayScale image processing (Beta 1)\obj\Debug\net6.0-windows\Day10-02 GrayScale image processing (Beta 1).dll
+C:\Users\NEXT_ENERGY\Desktop\C#_Code\Day10-02 GrayScale image processing (Beta 1)\obj\Debug\net6.0-windows\refint\Day10-02 GrayScale image processing (Beta 1).dll
+C:\Users\NEXT_ENERGY\Desktop\C#_Code\Day10-02 GrayScale image processing (Beta 1)\obj\Debug\net6.0-windows\Day10-02 GrayScale image processing (Beta 1).pdb
+C:\Users\NEXT_ENERGY\Desktop\C#_Code\Day10-02 GrayScale image processing (Beta 1)\obj\Debug\net6.0-windows\Day10-02 GrayScale image processing (Beta 1).genruntimeconfig.cache
+C:\Users\NEXT_ENERGY\Desktop\C#_Code\Day10-02 GrayScale image processing (Beta 1)\obj\Debug\net6.0-windows\ref\Day10-02 GrayScale image processing (Beta 1).dll
+C:\Users\NEXT_ENERGY\Desktop\C#_Code\Day10-02 GrayScale image processing (Beta 1)\obj\Debug\net6.0-windows\Day10_02_GrayScale_image_processing__Beta_1_.MainForm.resources
+C:\Users\NEXT_ENERGY\Desktop\C#_Code\Day10-02 GrayScale image processing (Beta 1)\obj\Debug\net6.0-windows\Day10_02_GrayScale_image_processing__Beta_1_.input1Form.resources

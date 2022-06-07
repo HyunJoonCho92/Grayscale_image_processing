@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Day10-02 GrayScale image processing (RC 1)/1.0.0": {
+        "runtime": {
+          "Day10-02 GrayScale image processing (RC 1).dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Day10-02 GrayScale image processing (RC 1)/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
